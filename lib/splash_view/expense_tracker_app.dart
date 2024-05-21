@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
   class ExpenseTrackerApp extends StatefulWidget {
   const ExpenseTrackerApp({super.key});
 
